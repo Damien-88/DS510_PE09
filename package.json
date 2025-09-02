@@ -1,0 +1,25 @@
+{
+  "name": "ds510_pe09",
+  "version": "1.0.0",
+  "description": "Programming exercise 9 for the Artificial Intelligence for Data Science course",
+  "main": "weatherbot_webhook.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Damien-88/DS510_PE09.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Damien-88/DS510_PE09/issues"
+  },
+  "homepage": "https://github.com/Damien-88/DS510_PE09#readme",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "express": "^5.1.0"
+  }
+}
